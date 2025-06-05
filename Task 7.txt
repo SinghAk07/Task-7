@@ -1,0 +1,53 @@
+ Task 7: Identify and Remove Suspicious Browser Extensions
+
+Aim of the Task:
+Learn to spot and remove potentially harmful browser extensions.
+
+Steps Taken:
+1. Opened Browser Extension Manager:
+   Accessed chrome://extensions/ on Google Chrome.
+
+2. Reviewed Installed Extensions:
+   - Extensions Installed:
+     - Grammarly
+     - AdBlock
+     - PDF Converter Pro
+     - Dark Mode Enhancer
+     - Shopping Assistant
+     - Google Docs Offline
+
+3. Checked Permissions and Reviews:
+   - PDF Converter Pro:
+     - Permissions: Access to all site data
+     - Reviews: Many users flagged it as suspicious
+   - Shopping Assistant:
+     - Permissions: Read browser history, modify data
+     - Reviews: Poor ratings and mentions of ad injections
+
+4. Identified Suspicious Extensions:
+   - PDF Converter Pro
+   - Shopping Assistant
+
+5. Removed Suspicious Extensions:
+   -  Uninstalled PDF Converter Pro
+   -  Uninstalled Shopping Assistant
+
+6. Restarted Browser:
+   - Verified performance improvement browser started faster and fewer ads appeared.
+
+7. Researched Risks of Malicious Extensions:
+   - Can track browsing history
+   - Inject unwanted ads or redirect traffic
+   - Steal login credentials if poorly sandboxed
+
+8. Documented Actions:
+   - Removed: PDF Converter Pro, Shopping Assistant
+   - Why: Suspicious permissions, bad reviews, poor developer reputation
+
+Outcome:
+Gained awareness of browser security risks and how to manage extensions safely.
+
+Key Learnings:
+- Always check reviews and permissions before installing extensions.
+- Remove anything that isn’t essential or is poorly rated.
+- Malicious extensions can severely compromise privacy and performance.
